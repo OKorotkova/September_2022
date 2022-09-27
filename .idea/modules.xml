@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapters/adapters.iml" filepath="$PROJECT_DIR$/adapters/adapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/application/application.iml" filepath="$PROJECT_DIR$/core/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/model/model.iml" filepath="$PROJECT_DIR$/core/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/ports/ports.iml" filepath="$PROJECT_DIR$/core/ports/ports.iml" />
+    </modules>
+  </component>
+</project>
